@@ -208,16 +208,16 @@ The proposed solution also explores the use of artificial intelligence for deman
 
 5.2 References
 
-Ministry of Consumer Affairs, Food & Public Distribution — Information on consumer welfare and food distribution in India.
+Ministry of Consumer Affairs, Food & Public Distribution — Information on consumer welfare and food distribution in India. https://dfpd.gov.in/en
 
-Ministry of Agriculture & Farmers Welfare — Agricultural policies, farmer welfare schemes, and agricultural development initiatives.
+Ministry of Agriculture & Farmers Welfare — Agricultural policies, farmer welfare schemes, and agricultural development initiatives. https://agriwelfare.gov.in/
 
-National Agriculture Market (e-NAM) — Reference for electronic agricultural trading and market connectivity.
+National Agriculture Market (e-NAM) — Reference for electronic agricultural trading and market connectivity. https://enam.gov.in/web/
 
-Agricultural Marketing Information Network (AGMARKNET) — Reference for agricultural market prices and market-related information.
+Agricultural Marketing Information Network (AGMARKNET) — Reference for agricultural market prices and market-related information. https://agmarknet.gov.in/
 
-Research studies on AI-based demand forecasting — Background on predicting agricultural demand and improving supply chain efficiency.
+Research studies on AI-based demand forecasting — Background on predicting agricultural demand and improving supply chain efficiency. https://ieeexplore.ieee.org/abstract/document/11467445
 
-Research studies on agricultural supply chain optimization — Background on transportation planning, logistics management, and reducing food wastage.
+Research studies on agricultural supply chain optimization — Background on transportation planning, logistics management, and reducing food wastage. https://link.springer.com/article/10.1007/s12351-024-00878-x
 
 These references provide background information on agricultural markets, government initiatives, mapping technologies, and software development. The proposed features should be validated through prototype testing and feedback from farmers and buyers.
